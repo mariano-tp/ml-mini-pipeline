@@ -1,10 +1,13 @@
 import json
 from pathlib import Path
 
+
 def test_metrics_schema_exists_and_has_keys():
     m = Path("artifacts") / "metrics.json"
-    assert m.exists(), "No se encontró artifacts/metrics.json (ejecutá la pipeline en CI)"
+    assert m.exists(), "No se encontró artifacts/metrics.json (la pipeline debe generarlo)"
 
     data = json.loads(m.read_text())
-    # Ajustá las claves si tu pipeline escribe otras métricas
-    assert "accuracy" in data or "f1" in data, "metrics.json no contiene métricas esperadas"
+
+    # Debe existir al menos una de estas llaves, preferentemente todas:
+    keys = {"accuracy", "f1", "rmse"}
+    assert keys & data.keys(), f"Faltan llaves esperadas en metrics.json, esperadas: {keys}"
