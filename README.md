@@ -1,7 +1,7 @@
 [![ci](https://img.shields.io/github/actions/workflow/status/mariano-tp/ml-mini-pipeline/ci.yml?branch=main&label=tests&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml)
 [![model-ci](https://img.shields.io/github/actions/workflow/status/mariano-tp/ml-mini-pipeline/model-ci.yml?branch=main&label=model-ci&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/model-ci.yml)
-[![release](https://img.shields.io/github/v/release/mariano-tp/ml-mini-pipeline?display_name=tag&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/releases)
 [![last commit](https://img.shields.io/github/last-commit/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/commits/main)
+[![release](https://img.shields.io/github/v/release/mariano-tp/ml-mini-pipeline?display_name=tag&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/stargazers)
 
