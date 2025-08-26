@@ -4,7 +4,7 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/stargazers)
 
-# ml-mini-pipeline
+# ML Mini Pipeline
 
 Mini pipeline de ML con **scikit-learn**:
 - genera dataset sintético,
