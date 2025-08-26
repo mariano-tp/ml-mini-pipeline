@@ -32,3 +32,10 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
         run: pytest -q
+
+        - name: Upload artifacts (model + metrics)
+         uses: actions/upload-artifact@v4
+         with:
+           name: artifacts
+           path: artifacts/**
+
