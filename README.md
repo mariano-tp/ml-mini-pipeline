@@ -43,3 +43,5 @@ pytest -q
 
 ## Créditos
 Repositorio de portfolio por @mariano-tp. Licencia MIT.
+
+Ver también: [Código de Conducta](./CODE_OF_CONDUCT.md) · [Contribuir](./CONTRIBUTING.md) · [Seguridad](./SECURITY.md)
