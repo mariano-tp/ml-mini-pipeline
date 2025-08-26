@@ -37,15 +37,12 @@ python -m src.pipeline
 ## Estructura
 ```
 .
-├── src/
-│   ├── __init__.py
-│   ├── data.py
-│   ├── train.py
-│   └── predict.py
-├── tests/test_pipeline.py
-├── requirements.txt
-├── .github/workflows/ci.yml
-└── LICENSE
+├─ src/
+│  ├─ __init__.py     ← (vacío, pero DEBE existir)
+│  └─ pipeline.py     ← acá tu pipeline
+├─ tests/
+├─ artifacts/         ← se crea en el CI si no existe
+└─ ...
 ```
 
 ## CI
