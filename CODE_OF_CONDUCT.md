@@ -25,12 +25,6 @@ Este Código aplica en todos los espacios del proyecto (issues, PRs, discusiones
 ## Cumplimiento
 Las personas mantenedoras pueden editar/eliminar contenidos o tomar medidas temporales o permanentes según la gravedad de las infracciones.
 
-## Cómo reportar
-Contactá al mantenedor en **mtorres.dev@outlook.com**.  
-También podés abrir un **Issue** solicitando contacto privado si preferís no publicar detalles.
-
-Los reportes serán tratados con prontitud y, cuando sea posible, confidencialidad.
-
 ## Atribución
 Basado en el **Contributor Covenant v2.1**  
 Texto: https://www.contributor-covenant.org/version/2/1/code_of_conduct/  
