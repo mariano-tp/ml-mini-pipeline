@@ -13,6 +13,7 @@ Mini pipeline de ML con **scikit-learn**:
 - corre **pytest** en CI.
 
 > 100% online: solo subí el repo y ejecutá **Actions**.
+``
 
 ## Ejecutar local (opcional)
 ```bash
@@ -32,7 +33,7 @@ pip install -r requirements.txt -r requirements-dev.txt
 pre-commit install
 pytest -q
 python -m src.pipeline
-
+```
 
 ## Estructura
 ```
