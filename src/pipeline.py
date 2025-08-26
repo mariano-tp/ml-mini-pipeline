@@ -1,0 +1,3 @@
+from src.config import load_cfg
+cfg = load_cfg()
+# …y usá cfg.random_state / cfg.test_size / cfg.model.type …
