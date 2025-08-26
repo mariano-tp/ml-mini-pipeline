@@ -1,1 +1,2 @@
-# necesario para poder ejecutar: python -m src.pipeline
+# Hace que "src" sea un paquete válido para:
+#   python -m src.pipeline
