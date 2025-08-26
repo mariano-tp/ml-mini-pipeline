@@ -24,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+          
+      - name: Pre-run pipeline (generate artifacts)
+        run: python -c "from src.pipeline import train_and_evaluate; train_and_evaluate()"
 
       - name: Run tests
         env:
