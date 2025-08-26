@@ -23,6 +23,17 @@ python src/predict.py --x 0.5 --y -1.2 --z 0.1
 pytest -q
 ```
 
+## Desarrollo rápido
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # en Windows: .venv\Scripts\activate
+pip install -r requirements.txt -r requirements-dev.txt
+pre-commit install
+pytest -q
+python -m src.pipeline
+
+
 ## Estructura
 ```
 .
