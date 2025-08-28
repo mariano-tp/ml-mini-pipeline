@@ -5,9 +5,9 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/stargazers)
 
-# ML Mini Pipeline
+# Machine Learning (ML) Mini Pipeline
 
-Mini pipeline de **ML** con `scikit-learn` pensada para portfolio:
+Mini pipeline de Machine Learning (ML) con `scikit-learn` pensada para portfolio:
 - genera un dataset sintético,
 - entrena un modelo (`LogisticRegression`),
 - guarda artefactos en `./artifacts/` (`model.pkl` y `metrics.json`),
