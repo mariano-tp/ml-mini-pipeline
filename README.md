@@ -5,7 +5,7 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/stargazers)
 
-# Machine Learning (ML) Mini Pipeline
+# Machine Learning Mini Pipeline
 
 Mini pipeline de Machine Learning (ML) con `scikit-learn` pensada para portfolio:
 - genera un dataset sintético,
