@@ -1,13 +1,13 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 
-Back to repository: [Home](https://github.com/mariano-tp/mariano-tp/blob/main/README.md)
+Back to repository: [Home](https://github.com/metorresponce/metorresponce/blob/main/README.md)
 
-[![ci](https://img.shields.io/github/actions/workflow/status/mariano-tp/ml-mini-pipeline/ci.yml?branch=main&label=tests&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml)
-[![model-ci](https://img.shields.io/github/actions/workflow/status/mariano-tp/ml-mini-pipeline/model-ci.yml?branch=main&label=model-ci&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/model-ci.yml)
-[![last commit](https://img.shields.io/github/last-commit/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/commits/main)
-[![release](https://img.shields.io/github/v/release/mariano-tp/ml-mini-pipeline?display_name=tag&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/releases)
+[![ci](https://img.shields.io/github/actions/workflow/status/metorresponce/ml-mini-pipeline/ci.yml?branch=main&label=tests&style=flat-square)](https://github.com/metorresponce/ml-mini-pipeline/actions/workflows/ci.yml)
+[![model-ci](https://img.shields.io/github/actions/workflow/status/metorresponce/ml-mini-pipeline/model-ci.yml?branch=main&label=model-ci&style=flat-square)](https://github.com/metorresponce/ml-mini-pipeline/actions/workflows/model-ci.yml)
+[![last commit](https://img.shields.io/github/last-commit/metorresponce/ml-mini-pipeline?style=flat-square)](https://github.com/metorresponce/ml-mini-pipeline/commits/main)
+[![release](https://img.shields.io/github/v/release/metorresponce/ml-mini-pipeline?display_name=tag&style=flat-square)](https://github.com/metorresponce/ml-mini-pipeline/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
-[![stars](https://img.shields.io/github/stars/mariano-tp/ml-mini-pipeline?style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/stargazers)
+[![stars](https://img.shields.io/github/stars/metorresponce/ml-mini-pipeline?style=flat-square)](https://github.com/metorresponce/ml-mini-pipeline/stargazers)
 
 # Machine Learning Mini Pipeline
 
@@ -97,7 +97,7 @@ Create a release from Releases -> Draft new release (e.g. v0.1.0).
 Tag it as Latest so it stays visible on the repository header.
 
 ## Credits
-Portfolio repository by @mariano-tp. Inspired by minimalist MLOps practices (synthetic data + artifacts + CI).
+Portfolio repository by @metorresponce. Inspired by minimalist MLOps practices (synthetic data + artifacts + CI).
 
 See also: [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
 
